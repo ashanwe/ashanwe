@@ -9,7 +9,7 @@ I'm a passionate full stack web developer with a love for creating innovative an
 
 ### :diamond_shape_with_a_dot_inside: Skills
 - HTML | CSS | JavaScript | Jquery
-- React | Node.js | Express
+- React Js | Node Js | Express
 - Database Management (e.g., MySQL, MongoDB)
 
 ### :diamond_shape_with_a_dot_inside: Contact
