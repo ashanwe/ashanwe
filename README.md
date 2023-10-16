@@ -11,6 +11,7 @@ I'm a passionate full stack web developer with a love for creating innovative an
 - HTML | CSS | JavaScript | Jquery
 - React Js | Node Js | Express
 - Database Management (e.g., MySQL, MongoDB)
+- WardPress
 
 ### :diamond_shape_with_a_dot_inside: Contact
 
