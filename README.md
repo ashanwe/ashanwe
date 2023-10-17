@@ -15,7 +15,7 @@ I'm a passionate full stack web developer with a love for creating innovative an
 
 ### :diamond_shape_with_a_dot_inside: Contact
 
-Feel free to reach out to me at :e-mail: ashanweerakkodi@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/ashan-weerakkodi).
+Feel free to reach out to me at :e-mail: ashanweerakkodi99@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/ashan-weerakkodi).
 
 
 <!--
